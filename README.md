@@ -14,7 +14,6 @@ readme-teste. não sei mexer
 
 ### Trabalhando com links
 
-#Para ter acesso as redes socias da faculdade:
 ##### https://www.univs.edu.br/ - Site
 ##### https://www.youtube.com/channel/UCeZoaMjKTM9qkbf7FvlRkJw - Youtube
 
