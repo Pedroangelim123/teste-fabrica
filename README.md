@@ -1,7 +1,7 @@
 # teste-fabrica
 readme-teste. não sei mexer
 ## 🚀 Iniciando
-# Para que serve:
+# Finalidade:
  Ajuda o projeto ter mais relevância e deixa as pessoas mais curiosas para ler o código, trazendo assim, mais visibilidade.
 # Um Readme possui:
 * Logo
